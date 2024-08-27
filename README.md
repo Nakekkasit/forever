@@ -1,14 +1,14 @@
-# Forever -- An E-commerce Website ==> 👉Live Browser:[forever](https://foreverstore.netlify.app/)
+# Forever -- An E-commerce Website 
+## 👉Live Browser: [https://foreverstore.netlify.app/](https://foreverstore.netlify.app/)
+## Web App using React JS and Tailwind CSS.
 
-## An eCommerce website / Web App using React JS and Tailwind CSS.
-
-## Project tools :
+### Project tools :
 
 - React JS
 - Tailwind
 - Context API
 
-## Features
+### Features
 
 - Home page => where it displays the Latest products, best selling products, newsletter subscription box and Footer.
 - Products collection page => to display all products added on this online shopping website. On this product collection it has product filter, product sort and product search features also.
