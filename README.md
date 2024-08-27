@@ -1,4 +1,4 @@
-# Forever -- The Clothing Shop
+# Forever -- An E-commerce Website ==> 👉Live Browser:[forever](https://foreverstore.netlify.app/)
 
 ## An eCommerce website / Web App using React JS and Tailwind CSS.
 
