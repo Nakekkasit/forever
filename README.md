@@ -1,19 +1,25 @@
-# Forever -- An E-commerce Website 
-## 👉Live Browser: [https://foreverstore.netlify.app/](https://foreverstore.netlify.app/)
-## Web App using React JS and Tailwind CSS.
+## Forever: E-Commerce Website with React JS, React Router, Context API, Tailwind
+## Deployed App : 👉 [forever](https://foreverstore.netlify.app/)
+### 🏛 App Features :
+### 1. Home Page
+- Displays the latest products and best-selling products.
+- Footer section with additional site information.
+### 2. Products Collection Page
+- Shows all products available on the online shopping site.
+- Includes product filtering, sorting, and search functionality to enhance product discovery.
+### 3. Product Page
+- Displays a detailed product image gallery, title, price, and description.
+- Features an "Add to Cart" button for users to quickly purchase items.
+- Related products section to recommend similar items to users.
+### 4. Cart Page
+- Shows all items added to the cart, allowing users to review their selections before checkout.
+### 5. Orders Page
+- Lists all items that the user has purchased, providing a record of previous orders.
+### 6. Payment Page
+- Displays the total expense of the user's order and facilitates payment processing.
 
-### Project tools :
+ 
 
-- React JS
-- Tailwind
-- Context API
 
-### Features
 
-- Home page => where it displays the Latest products, best selling products, newsletter subscription box and Footer.
-- Products collection page => to display all products added on this online shopping website. On this product collection it has product filter, product sort and product search features also.
-- Product page => where it displays product image gallery, title, price, description, add to cart button and Related products
-- Cart page => where it displays all items put to the cart
-- Orders page => where it displays all items user purchase
-- Payment page => where it displays total expense of order
-- Login/Signup page
+
